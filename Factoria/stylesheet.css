@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'FactoriaW00';
+    src: url('Factoria-Book.woff2') format('woff2'),
+        url('Factoria-Book.woff') format('woff'),
+        url('Factoria-Book.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
